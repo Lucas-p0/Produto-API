@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yTa6lRKrWqwaCdmWxDOlLIkLso7OmC8eJ/chU98VerOdI1OhUN43RPlOhUlx/QbmlaNwzd5wcW3zqWwSKxbPxA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AutoPlay\\Produto-API\\DataTransfer\\DataTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "e9HOyathh09eGL9xCEV1qVX3bxaUm9hDjiJKGLkzKUJEyXXVrYgG67Ek5/S3f1IRanJ+MP/wierY6dUoed6f1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\AutoPlay\\Produto-API\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Lucas.pinheiro\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
