@@ -10,3 +10,15 @@ C:/Users/iago/Documents/project/Product-API-DDD/DataTransfer/obj/Debug/net6.0/Da
 C:/Users/iago/Documents/project/Product-API-DDD/DataTransfer/obj/Debug/net6.0/refint/DataTransfer.dll
 C:/Users/iago/Documents/project/Product-API-DDD/DataTransfer/obj/Debug/net6.0/DataTransfer.pdb
 C:/Users/iago/Documents/project/Product-API-DDD/DataTransfer/obj/Debug/net6.0/ref/DataTransfer.dll
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\bin\Debug\net6.0\DataTransfer.deps.json
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\bin\Debug\net6.0\DataTransfer.dll
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\bin\Debug\net6.0\DataTransfer.pdb
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.AssemblyInfoInputs.cache
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.AssemblyInfo.cs
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.csproj.CoreCompileInputs.cache
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.sourcelink.json
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.dll
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\refint\DataTransfer.dll
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\DataTransfer.pdb
+C:\Projetos\AutoPlay\Produto-API\DataTransfer\obj\Debug\net6.0\ref\DataTransfer.dll
